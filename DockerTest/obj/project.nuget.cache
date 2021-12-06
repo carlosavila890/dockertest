@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLbo2lCZWNkt11MAnKh6WX4rUlT7ugS7TNrWPN6jq9x4Z93Z5hRtIc1fYR3c5Bc3vPoGtnIkE7HZkWB6NV7oWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos Avila\\source\\repos\\dockertest\\DockerTest\\DockerTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Avila\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
